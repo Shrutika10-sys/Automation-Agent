@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+
+output/*
+!output/.gitkeep
+
+logs/*
+!logs/.gitkeep
+
+*.png
+.playwright/
