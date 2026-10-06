@@ -1,4 +1,4 @@
-# Gemini Gems extractor
+# Gemini Gems extractor- Phase 1
 
 Read-only Playwright automation that opens your existing Chrome profile, visits the Gemini Gem Manager, and saves every Gem under **My Gems** and **Shared with me**.
 
